@@ -41,7 +41,7 @@ Let's connect and build something great together! 💡✨
 # 📊 GitHub Stats:
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=SakshamSahgal&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=SakshamSahgal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=SakshamSahgal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=SakshamSahgal&show_icons=true&theme=radical" />
