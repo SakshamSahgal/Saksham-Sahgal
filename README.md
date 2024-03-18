@@ -22,7 +22,8 @@ Let's connect and build something great together! 💡✨
 - Firebase
 - Bootstrap
 - Docker
-- Batch Script (Automation)
+- Batch Script (Windows Automation)
+- Shell Script (Linux Automation)
 
 <p align="center">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
